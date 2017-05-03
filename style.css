@@ -1,14 +1,8 @@
 body{
-  height: 100%;
+  height: 841.8898 px;
   margin:0;
   text-align: left;
-  width: 100%;
-  display: -webkit-flex;
-  display: flex;
-  -weblot-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webit-align-content:left;
-  align-content: center;
+  width: 595.2756 px;
 }
 h1 {
   font-family: 'Helvetica';
